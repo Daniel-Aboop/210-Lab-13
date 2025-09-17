@@ -19,7 +19,7 @@ void printList(vector<string> &list){
     }
     cout<<endl;
 }
-//C:\\Users\\hope4\\Desktop\\COMSC 210 Work\\210-Lab-13\\List.txt
+
 //In my main code I made a grocery list program which has several functions for manual input, clearing, reading from a file, and exiting the program.
 int main(){
     vector<string> GroceryList;
